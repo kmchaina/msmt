@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import plost
 
 st.set_page_config(page_title = "MSMT",layout='wide', initial_sidebar_state='expanded', page_icon=':bar_chart:')
 
